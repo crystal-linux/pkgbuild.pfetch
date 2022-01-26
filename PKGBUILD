@@ -3,7 +3,7 @@
 
 _pkgname=pfetch
 pkgname=pfetch
-pkgver=69-0.6.0
+pkgver=69_0.6.0
 pkgrel=1
 pkgdesc="A pretty system information tool written in POSIX sh."
 arch=(any)
