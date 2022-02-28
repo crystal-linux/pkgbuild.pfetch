@@ -1,4 +1,4 @@
-# Crystal Maintainer: matt <matt at getcryst dot al>
+# Crystal Maintainer: echo -n 'bWF0dEBnZXRjcnlzdC5hbA==' | base64 --decode
 # AUR Maintainer: timescam <rex.ky.ng at gmail dot com>
 
 _pkgname=pfetch
